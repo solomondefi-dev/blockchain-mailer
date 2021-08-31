@@ -1,3 +1,7 @@
+> :warning: This repository has moved :warning:
+
+Solomon is migrating to a monorepo, this repository is no longer used. See https://github.com/solomondefi/solomon-monorepo
+
 # Solomon Blockchain Emailer
 
 A service that scans the blockchain and triggers actions based on incoming log messages. It is intended for use in the Solomon payments
